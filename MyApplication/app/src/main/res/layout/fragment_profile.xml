@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Profile">
+
+    <ImageView
+        android:background="@drawable/icon_accoun"
+        android:layout_width="170dp"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="170dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nguyễn Bá Khoa"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="22dp"
+
+        android:textStyle="bold" />
+    <TextView
+        android:textAlignment="center"
+        android:textColor="#222020"
+        android:text="Nghe An, Viet Nam"
+        android:textSize="14dp"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:layout_marginTop="26dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="@color/black"
+                android:text="Amount"
+                android:textSize="22dp"
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+            <TextView
+                android:text="500"
+                android:textSize="18dp"
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="@color/black"
+                android:text="Money"
+                android:textSize="22dp"
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+            <TextView
+                android:text="300$"
+                android:textSize="18dp"
+                android:textAlignment="center"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:background="@drawable/mail"
+            android:layout_marginLeft="50dp"
+            android:layout_width="35dp"
+            android:layout_height="35dp"/>
+        <TextView
+            android:textSize="18dp"
+            android:text="2050531200215@gmail.com"
+            android:layout_width="match_parent"
+           android:paddingLeft="20dp"
+            android:paddingTop="4dp"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:background="@drawable/phone"
+            android:layout_marginLeft="50dp"
+            android:layout_width="35dp"
+            android:layout_height="35dp"/>
+        <TextView
+
+            android:textSize="18dp"
+            android:text="0365228025"
+            android:layout_width="match_parent"
+            android:paddingLeft="20dp"
+            android:paddingTop="4dp"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:background="@drawable/fb"
+            android:layout_marginLeft="50dp"
+            android:layout_width="35dp"
+            android:layout_height="35dp"/>
+        <TextView
+
+            android:textSize="18dp"
+            android:text="Nguyễn Bá Khoa"
+            android:layout_width="match_parent"
+            android:paddingLeft="20dp"
+            android:paddingTop="4dp"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:background="@drawable/twiter"
+            android:layout_marginLeft="50dp"
+            android:layout_width="35dp"
+            android:layout_height="35dp"/>
+        <TextView
+
+            android:textSize="18dp"
+            android:text="meme@gmail.com"
+            android:layout_width="match_parent"
+            android:paddingLeft="20dp"
+            android:paddingTop="4dp"
+            android:layout_height="match_parent"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:text="Sign Out" />
+
+
+</LinearLayout>

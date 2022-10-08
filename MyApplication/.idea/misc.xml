@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.102" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/boder.xml" value="0.1745" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/border.xml" value="0.1745" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/border_cart.xml" value="0.176" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/circle.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/circle2.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/custom_background.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/custom_button.xml" value="0.1745" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/custom_button_caidat.xml" value="0.106" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/custom_rectangle.xml" value="0.1195" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_arrow_downward_24.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1195" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_lock_open_24.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.1265" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.102" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.102" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.102" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.102" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_email_down.xml" value="0.102" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.102" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_shopping_cart_24.xml" value="0.2555" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_signin_24.xml" value="0.2555" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/ic_wave.xml" value="0.1195" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/round_bg.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/round_boder_red.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/round_border.xml" value="0.1845" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_mo_ta_food.xml" value="0.21504916631038906" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_mo_ta_game.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_sign_in.xml" value="0.2" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/custom_dong_food.xml" value="0.2" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/dogwin.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/dragonwin.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_danh_sach_tai_khoan.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_dow_load.xml" value="0.21504916631038906" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_main_profile.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_sign_in.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_trang_chu.xml" value="0.264" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/gitf.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/item_food.xml" value="0.21504916631038906" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/item_game.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/mousewin.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/sign_up.xml" value="0.264" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/voiwin.xml" value="0.25" />
+        <entry key="..\:/MyApplication/app/src/main/res/menu/bottom_navigation.xml" value="0.15503875968992248" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/custom_button_caidat.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/round_bg.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/round_boder_red.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/round_border.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_danh_sach_tai_khoan.xml" value="0.21504916631038906" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_dow_load.xml" value="0.21504916631038906" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_forgot_password.xml" value="0.21504916631038906" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_game_dua_thu.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_home.xml" value="0.21504916631038906" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.21504916631038906" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main_profile.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_mo_ta_game.xml" value="0.21504916631038906" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_phong_to_anh.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_sign_up.xml" value="0.21504916631038906" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_trang_chu.xml" value="0.21504916631038906" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/custom_dong_game.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/custom_dong_game2.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/custom_dong_game3.xml" value="0.21504916631038906" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/dogwin.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/dragonwin.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_danh_sach_tai_khoan.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_dow_load.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_first.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_main_profile.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_second.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_trang_chu.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/gitf.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_category.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_game.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/mousewin.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/phongtoanh.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/layout/voiwin.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/MyApplication/app/src/main/res/menu/bottom_navigation.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
